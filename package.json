@@ -14,7 +14,7 @@
     "sequelize",
     "mysql"
   ],
-  "author": "bezkoder",
+  "author": "stayhungry07212",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
